@@ -1,7 +1,7 @@
 # Paul Kissick 🚀
-### Salesforce Application Architect & Developer | MuleSoft Certified | Community Leader
+### Salesforce Application Architect & Developer | MuleSoft Certified
 
-Located in **London / Nottingham, UK** 🇬🇧
+Located in **Nottingham, UK** 🇬🇧
 
 ---
 
@@ -9,13 +9,13 @@ Located in **London / Nottingham, UK** 🇬🇧
 
 I am a highly experienced Developer and Architect within the Salesforce ecosystem, with a deep focus on **Data Architecture**, **AI (Agentforce)**, and **Hyperautomation**. As a multi-certified professional, I bridge the gap between complex technical requirements and scalable business solutions.
 
-I am an active leader in the **London Salesforce Developer Trailblazer Group**, where I regularly share insights on Data Cloud, Agentforce, and the latest Salesforce releases.
+I am an active presenter in the **London Salesforce Developer Trailblazer Group**, where I regularly share insights on Data Cloud, and anything else that interests me.
 
 ---
 
 ## 🏢 Current Employment
 **[Nebula Consulting Ltd](https://www.nebulaconsulting.co.uk/)**  
-*Salesforce Developer & Architect*
+*Principal Salesforce Developer & Architect*
 
 At Nebula, I specialize in building robust Salesforce solutions, leveraging my expertise in:
 - **Data Cloud & Data 360**
@@ -42,7 +42,7 @@ At Nebula, I specialize in building robust Salesforce solutions, leveraging my e
 ## 🌟 Community & Recent Activity
 
 - **Speaker:** London Salesforce Developer Trailblazer Group. Recent topics include:
-    - **Data 360 & Data Cloud:** Deep dives into web content connectors.
+    - **Data 360:** Deep dives into web content connectors.
     - **Agentforce:** AI-driven transformations in the Salesforce ecosystem.
     - **Winter '26 Release:** Tracking the new User object field history.
 - **Tools:** Currently exploring the intersection of AI-assisted development (Cursor AI) and LWC.
