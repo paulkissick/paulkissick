@@ -25,6 +25,18 @@ At Nebula, I specialize in building robust Salesforce solutions, leveraging my e
 
 ---
 
+## ✍️ Recent Blog Posts
+
+I regularly share my findings and experiences on the [Nebula Insights blog](https://nebulaconsulting.co.uk/insights/author/paulknebulaconsulting-co-uk/). Here are some of my recent articles:
+
+- [**We tested Agentforce Vibes for Salesforce development – Here's what worked (and didn't)**](https://nebulaconsulting.co.uk/insights/we-tested-agentforce-vibes-for-salesforce-development-heres-what-worked-and-didnt/)
+- [**Connected Apps: Have you reviewed your org recently?**](https://nebulaconsulting.co.uk/insights/connected-apps-have-you-reviewed-your-org-recently/)
+- [**Get your website data into Data Cloud and Agentforce**](https://nebulaconsulting.co.uk/insights/get-your-website-data-into-data-cloud-and-agentforce/)
+- [**Overcoming Salesforce Field History Limits Using Data Cloud**](https://nebulaconsulting.co.uk/insights/overcoming-salesforce-field-history-limits-using-data-cloud/)
+- [**Learn What External Credentials Mean for You and Your Salesforce Org**](https://nebulaconsulting.co.uk/insights/learn-what-external-credentials-mean-for-you-and-your-salesforce-org/)
+
+---
+
 ## 🏆 Certifications
 
 ![Salesforce Hyperautomation Specialist](https://img.shields.io/badge/Salesforce-Hyperautomation%20Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
