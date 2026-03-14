@@ -1,7 +1,7 @@
 # Paul Kissick 🚀
-### Salesforce Application Architect & Developer | MuleSoft Certified
+### Salesforce Application Architect & Developer | MuleSoft Certified | Community Contributor
 
-Located in **Nottingham, UK** 🇬🇧
+Located in **London / Nottingham, UK** 🇬🇧
 
 ---
 
@@ -9,13 +9,13 @@ Located in **Nottingham, UK** 🇬🇧
 
 I am a highly experienced Developer and Architect within the Salesforce ecosystem, with a deep focus on **Data Architecture**, **AI (Agentforce)**, and **Hyperautomation**. As a multi-certified professional, I bridge the gap between complex technical requirements and scalable business solutions.
 
-I am an active presenter in the **London Salesforce Developer Trailblazer Group**, where I regularly share insights on Data Cloud, and anything else that interests me.
+I am an active contributor to the **London Salesforce Developer Trailblazer Group**, where I have shared insights on Data 360 and security best practices.
 
 ---
 
 ## 🏢 Current Employment
 **[Nebula Consulting Ltd](https://www.nebulaconsulting.co.uk/)**  
-*Principal Salesforce Developer & Architect*
+*Salesforce Developer & Architect*
 
 At Nebula, I specialize in building robust Salesforce solutions, leveraging my expertise in:
 - **Data Cloud & Data 360**
@@ -41,11 +41,13 @@ At Nebula, I specialize in building robust Salesforce solutions, leveraging my e
 
 ## 🌟 Community & Recent Activity
 
-- **Speaker:** London Salesforce Developer Trailblazer Group. Recent topics include:
-    - **Data 360:** Deep dives into web content connectors.
-    - **Agentforce:** AI-driven transformations in the Salesforce ecosystem.
-    - **Winter '26 Release:** Tracking the new User object field history.
-- **Tools:** Currently exploring the intersection of AI-assisted development (Cursor AI) and LWC.
+- **Community Speaker:** Presented at the London Salesforce Developer Trailblazer Group on:
+    - **Data 360 for Developers:** Exploring data integration and strategy.
+    - **External Credentials:** Deep dive into secure authentication patterns.
+- **Ecosystem Engagement:** Actively following and engaging with the community on:
+    - **Agentforce & AI:** The evolution of autonomous agents in Salesforce.
+    - **Winter '26 Release:** New platform features and field history tracking.
+    - **Developer Productivity:** Experimenting with AI-assisted development tools like Cursor for LWC.
 - **Philanthropy:** Proud supporter of **[Zephyr's](https://www.zephyrsnottingham.org.uk/)**, a Nottingham-based charity providing support for pregnancy and child loss.
 
 ---
